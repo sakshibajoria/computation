@@ -1,3 +1,2 @@
 # computation
-A proposal for an app
-my name
+A proposal for an app i think th
