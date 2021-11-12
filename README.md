@@ -1,6 +1,6 @@
 # A proposal
 <h3>Creative Computing</h3>
-<p> Knowing pretty much nothing about creative computing initially, I started off with the mindset of it being nothing but code. <em> "Why does a graphic design student need to learn how to code?" </em> I thought, looking at the robotic, coding font and then the Arduino kit. It didn't help when I was unsuccessful with my first ever attempt at lighting up an LED. However, after pushing myself to try and understand its basics through further <a href="https://www.youtube.com/watch?v=r0KErKHxHf0">YouTube tutorials</a> and <a href="https://www.tinkercad.com/learn/project-gallery;collectionId=OMOZACHJ9IR8LRE">TinkerCAD</a>, I managed to get through a few simulation projects and started understanding how computing could help with the creative industry in today's technological day and age. </p>
+<p> Knowing pretty much nothing about creative computing initially, I started off with the mindset of it being nothing but code. <em> "Why does a graphic design student need to learn how to code?" </em> I thought, looking at the robotic, coding font and then the Arduino kit. It didn't help when I was unsuccessful with my first ever attempt at lighting up an LED. However, after pushing myself to try and understand its basics through further <a href="https://www.youtube.com/watch?v=r0KErKHxHf0">YouTube tutorials</a> and <a href="https://www.tinkercad.com/learn/project-gallery;collectionId=OMOZACHJ9IR8LRE">TinkerCAD</a>, I managed to get through a few simulation projects and started understanding how computing could help with the creative industry in today's ever-evolving technological day and age. </p>
 <h3>My second attempt at lighting up an LED with an Arduino board</h3>
 <img src="https://user-images.githubusercontent.com/93987647/141443649-ddcfddfd-2696-4f1a-b1af-b334940c6aba.jpg" alt="Arduino">
 <h3>Lighting multiple LEDs on TinkerCAD</h3>
@@ -22,6 +22,7 @@
 </ul> </p>
 <h3>Hardware with PIR Motion Sensor</h3>
 <img src="https://user-images.githubusercontent.com/93987647/141474320-3bb7f061-aaeb-422f-a01e-1d461ed5b52f.gif" alt="PIR Motion Sensor">
+The sensor would light up the LED based on how much the back muscles relax. Testing would clear out any uncertainties about whether this would work effectively with multiple LEDs.
 <h4>Basic visual idea:</h4>
 <img width="669" alt="Screenshot 2021-11-12 at 12 28 28 PM" src="https://user-images.githubusercontent.com/93987647/141467612-57d2423b-302f-4b04-a1d1-91f9b799a7e0.png">
 <img width="669" alt="Screenshot 2021-11-12 at 11 01 12 AM" src="https://user-images.githubusercontent.com/93987647/141456996-8aabc48a-a924-4f18-b8ca-2ad3106e9768.png">
