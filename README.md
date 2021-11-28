@@ -7,7 +7,7 @@ This was successful.:sweat_smile:
 <h3>Lighting multiple LEDs on TinkerCAD</h3>
 <img src="https://user-images.githubusercontent.com/93987647/141469361-1fc36488-d3a5-4fb0-90bb-2ef0a2442599.gif" alt="Multiple LEDs">
 <h3>Open-Source</h3>
-<p> Open-source projects like the <a href="https://experiments.withgoogle.com/collection/digitalwellbeing">Digital Wellbeing Experiments with Google</a> made me realise the wide scope of creative computing, the changes it can make in people's lives today and how designers can collaborate and partipciate online through it. This led me to think about problems in our daily lives from women's safety to poor postures and how digital technology could solve them. </p> 
+<p> Open-source projects like the <a href="https://experiments.withgoogle.com/collection/digitalwellbeing">Digital Wellbeing Experiments with Google</a> made me realise the wide scope of creative computing, the changes it can make in people's lives today and how designers can collaborate and participate online through it. This led me to think about problems in our daily lives from women's safety to poor postures and how digital technology could solve them. </p> 
 <h2>Proposal for a product/app</h2>
 <h3>The Problem</h3>
 <blockquote> <em> You see it everywhere. In homes and offices, while walking down the street, riding the bus, or standing in line. <strong>"Tech Neck,"</strong> the act of stressing muscles while using phones, tablets, and computers, resulting in neck and shoulder pain, stiffness, and soreness, is a problem that’s getting worse. (Riew, 2021) </em> </blockquote>
